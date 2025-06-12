@@ -230,8 +230,14 @@
 
 
 	<!-- load for map -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWTIlluowDL-X4HbYQt3aDw_oi2JP0Krc&sensor=false"></script>
-	<script src="Javascript/map.js"></script>
+	<!-- Load Leaflet CSS/JS -->
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
+	<!-- Map container with class instead of inline style -->
+	<div id="map" class="map-container"></div>
+
+	<!-- Your scripts -->
+	<script src="Javascript/map.js"></script>
     </body>
 </html>
