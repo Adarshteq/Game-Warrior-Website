@@ -1,4 +1,4 @@
-##🎮 Game Warrior - Gaming Website
+## 🎮 Game Warrior - Gaming Website
 
 Game Warrior is a modern, responsive gaming website built with HTML, CSS, JavaScript, and Bootstrap.
 
