@@ -38,7 +38,7 @@ Game-Warrior-Website/
 
 │   ├── js/        # JavaScript files
 
-│   └── images/    # All images
+│   └── images/    # All images are Generated images
 
 ├── index.html     # Homepage
 
